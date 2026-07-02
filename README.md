@@ -19,6 +19,7 @@ Excel files are uploaded or loaded into the system
 Backend parses .xlsx data into JSON structures
 You can create .xlsx file adding data into the form. 
 
+<img width="1536" height="1024" alt="Working diagram" src="https://github.com/user-attachments/assets/224fe30a-e206-4f8c-9a2a-6aded61d665a" />
 
 
 🎯 Use Cases
