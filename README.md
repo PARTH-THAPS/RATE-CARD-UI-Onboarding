@@ -1,4 +1,4 @@
-Features
+<h1>Features<h1>
 📥 Excel-based data ingestion
 🧾 Rate card structuring logic
 🖥️ UI rendering of processed data
